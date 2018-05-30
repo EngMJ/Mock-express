@@ -2,7 +2,7 @@
   "name": "mockSever",
   "version": "0.0.1",
   "author": "MJ <jmjwlj@gmail.com>",
-  "description": 'A nodeJs express Mock Server',
+  "description": " A nodeJs express Mock Server",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
